@@ -756,9 +756,9 @@
     physical-cpu-count "^2.0.0"
 
 "@tensorflow-models/qna@1.0.0":
-  version "1.0.0-alpha3"
-  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0-alpha3.tgz#a6479c1b5a03b9b9accf20048c4979500b52b456"
-  integrity sha512-3fXseSAXLYh/0AXg0gXD/PobVPW3aCWc91a/Q+wLTJ0q5h2OR2m4A5FiR8aHDTuLHT+aOVu/P2OEMpigdfsNgw==
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/qna/-/qna-1.0.0.tgz#61893c2de2dd676b3286ca65c5ae27a7885ecbc4"
+  integrity sha512-5eVyiwm3PtMF/V9ecZaMYkAFPH3mcwl6p6CJ9jVecC7pWz3o/9uzlkqc+Dj5+2OlB8eFX4I3fxN4HlatXyOdqw==
 
 "@tensorflow/tfjs-converter@1.5.2":
   version "1.5.2"
@@ -3665,9 +3665,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 lodash@^4.17.13, lodash@^4.17.15, lodash@^4.17.4:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
